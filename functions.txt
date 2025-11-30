@@ -1,0 +1,7 @@
+major
+
+
+minor
+
+
+patch
